@@ -3,7 +3,7 @@ package com.perscholas.java_basics;
 public class Main {
 
     public static void main(String[] args) {
-        // write your code here
+        // write your code here. iam adding somtehng
         //1.
         int x = 10;
         int y = 20;
