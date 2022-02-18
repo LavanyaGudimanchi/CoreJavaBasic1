@@ -20,6 +20,11 @@ public class Main {
         double c = a+b;
         System.out.println(c);
 
+        int a1 =20;
+        int b1 =10;
+        int c1=a1/b1;
+         System.out.println(c1);
+
 
 
 
